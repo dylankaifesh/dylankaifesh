@@ -12,12 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
  
-
-<a href="https://github.com/dylankaifesh/dylankaifesh">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylankaifesh&theme=shadow_green&show_icons=true&count_private=true&size_weight=0&count_weight=1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=donut&exclude_repo=Java-RPS,dataconversion-private,github-readme-stats" />
-</a>
-
- 
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylankaifesh&layout=donut&count_weight=1&size_weight=0&bg_color=00000000)](https://github.com/dylankaifesh/github-readme-stats)
+ --->
 
 <!---
 Checks for light / dark mode and displays that
